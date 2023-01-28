@@ -124,7 +124,7 @@ static gui_image bg_filesel[14] =
 static const u8 *Cart_png[FILETYPE_MAX] =
 {
   Cart_md_png,
-  Cart_md_png,
+  Cart_cd_png,
   Cart_ms_png,
   Cart_gg_png,
   Cart_sg_png
